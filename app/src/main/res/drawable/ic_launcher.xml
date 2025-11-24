@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M0,0h108v108h-108z"/>
+    <!-- Ground -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M0,81h108v27h-108z"/>
+    <!-- Ball (main character) -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M54,45m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0"/>
+    <!-- Ball shine/highlight -->
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.4"
+        android:pathData="M60,35m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+    <!-- Shadow -->
+    <path
+        android:fillColor="#000000"
+        android:fillAlpha="0.3"
+        android:pathData="M35,80 Q54,82 73,80 Q54,84 35,80 Z"/>
+    <!-- Motion lines -->
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:strokeAlpha="0.6"
+        android:pathData="M20,50 L28,50"/>
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:strokeAlpha="0.6"
+        android:pathData="M15,40 L25,40"/>
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:strokeAlpha="0.6"
+        android:pathData="M18,60 L26,60"/>
+</vector>
