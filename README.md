@@ -28,7 +28,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/bounce-runner.git
+    git clone https://github.com/baralmanish/Bounce-Runner.git
     ```
 2.  **Open in Android Studio**:
     - Select "Open an existing Android Studio project".
